@@ -1,9 +1,9 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: HA-Qdevice add-on
-version: "0.0.1"
+version: "0.0.2"
 slug: HA-Qdevice
 description: Home assistant Qdevice addon to give a third voter for PVE Cluster
-url: "https://github.com/Nerexbcd/HA-Qdevice/tree/dev"
+url: "https://github.com/Nerexbcd/HA-Qdevice/tree/master/HA-Qdevice"
 arch:
   - armhf
   - armv7
