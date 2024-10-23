@@ -1,5 +1,8 @@
 # Qdevice Home Assistant add-on repository
 
+> [!CAUTION]
+> NOT WORKING
+
 > [!WARNING]
 > IN DEVELOPMENT
 
