@@ -40,6 +40,13 @@ Notes to developers after forking or using the github template feature:
 - Adjust all keys/url's that points to 'home-assistant' to now point to your user/fork.
 - Share your repository on the forums https://community.home-assistant.io/c/projects/9
 - Do awesome stuff!
+
+f
+f
+f
+f
+f
+
  -->
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
